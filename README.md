@@ -1,7 +1,8 @@
 # InstaBorders
 Adds a square / Instagram ready white border to your jpg files.
+#### Only tested on mac
 
-### Only tested on Mac, amend script for other use cases.
+### Prerequisite: Have ImageMagick installed! https://imagemagick.org/script/download.php
 
 ## How to use
 navigate to the folder with jpg files you want to add borders to in the commandline interface like so: ```cd /path/to/your/imagesFolder```
